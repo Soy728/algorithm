@@ -1,1 +1,2 @@
-백준 문제풀이
+# algorithm-in-python
+알고리즘 문제 풀이
