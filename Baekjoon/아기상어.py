@@ -68,7 +68,6 @@ while True:
         level += 1
         EatenNum = 0
 
-
 print(ans)
 
                
