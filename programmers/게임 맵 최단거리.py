@@ -6,7 +6,6 @@ from collections import deque
 
 def solution(maps):
     answer = -1
-    ans_list = [] #목적지에 도달하였을 때  지나온 칸의 개수
 
     visited = [[False for i in range(len(maps[0]))] for j in range(len(maps))]
     queue = deque()
