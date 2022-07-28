@@ -1,5 +1,6 @@
 #프로그래머스 다리를 지나는 트럭 LV2
 #2022.07.22
+
 from collections import deque
 
 def solution(bridge_length, weight, truck_weights):
