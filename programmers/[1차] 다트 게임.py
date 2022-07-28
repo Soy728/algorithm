@@ -1,10 +1,9 @@
 # 2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임
 #2022.07.28 -> soy birthday
 
-
 def solution(dartResult):
     answer = []
-    idx = -1 #answer 리스트의 인덱스
+    idx = -1  # answer 리스트의 인덱스
     number =""
     
     for i in dartResult:
