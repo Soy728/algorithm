@@ -1,2 +1,2 @@
-# algorithm-in-python
+# algorithm
 problem solving
