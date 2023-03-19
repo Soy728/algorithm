@@ -13,3 +13,5 @@ function solution(wallpaper) {
     
 }
 
+let a = new Date('2022-02-01').getTime()
+console.log(a)
