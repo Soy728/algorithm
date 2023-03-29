@@ -9,9 +9,11 @@ function solution(maps) {
 
   let answer = [];
   let mapArray = maps.map((d) => d.split(""));
-  let  visited =  Array.from(Array(maps.length),() => new Array(maps[0].length).fill(false));
+  let visited =  Array.from(Array(maps.length),() => new Array(maps[0].length).fill(false));
 
   let queue = [];
+
+
   for (j = 0; j < maps.length ; j++) { 
     for (i = 0; i < maps[0].length; i++) { 
 
